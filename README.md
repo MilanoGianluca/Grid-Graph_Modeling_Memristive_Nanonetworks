@@ -5,7 +5,7 @@ The python scripts and functions in the folder allow to perform two main tasks:
 	
   1) Fit two-terminal experimental conductance curves associated to the time evolution 	of a memristive network. The model for each memristive edge of the network is a balanced rate equation [1] 
 	
-  2) Stimulate a customized memristive network with user-defined voltage streams 	associated to user-defined source and ground nodes. \
+  2) Stimulate a customized memristive network with user-defined voltage streams associated to user-defined source and ground nodes.
 
 Output results are saved in output folder, which contains 3 sub-folders associated to the 3 main code scripts. Each saved file name begins with the current data and time to avoid overwriting of files. \
 \
